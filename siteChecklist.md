@@ -22,3 +22,5 @@ Checklist con fondamentali per pubblicazione
 - [ ] Controllo mail invio form
 - [ ] Sitemap
 - [ ] Robots.txt
+- [ ] eliminare i console.log
+- [ ] eliminare eventuali componenti dichiarati e non utilizzati
