@@ -40,7 +40,7 @@ export default async function RootLayout({
         <Footer />
         <ScrollTop />
       </body>
-      <GoogleAnalytics gaId="UA-77301206-1" />
+      {/* <GoogleAnalytics gaId="UA-77301206-1" /> */}
     </html>
   );
 }
